@@ -1,0 +1,23 @@
+{
+  "name": "@gumper-x/prettier-config",
+  "version": "1.0.0",
+  "description": "Prettier Config",
+  "main": "index.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gumper-x/prettier-config.git"
+  },
+  "author": "Gumper-x",
+  "license": "ISC",
+  "keywords": [
+    "prettier",
+    "prettier-config"
+  ],
+  "bugs": {
+    "url": "https://github.com/Gumper-x/prettier-config/issues"
+  },
+  "homepage": "https://github.com/Gumper-x/prettier-config#readme"
+}
