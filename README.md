@@ -11,3 +11,11 @@ Use in `package.json`
 ```json
 "prettier": "@gumper-x/prettier-config",
 ```
+### OR
+Use in `.prettierrc.js`
+```json
+module.exports = {
+  ...require("@gumper-x/prettier-config"),
+  // Your rules https://prettier.io/docs/en/options.html
+};
+```

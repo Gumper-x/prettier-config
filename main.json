@@ -8,7 +8,7 @@
   "useTabs": false,
   "proseWrap": "preserve",
   "arrowParens": "always",
-  "htmlWhitespaceSensitivity": "ignore",
+  "htmlWhitespaceSensitivity": "strict",
   "endOfLine": "auto",
   "quoteProps": "as-needed",
   "vueIndentScriptAndStyle": true

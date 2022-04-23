@@ -1,8 +1,8 @@
 {
   "name": "@gumper-x/prettier-config",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "Prettier Config",
-  "main": "index.json",
+  "main": "main.json",
   "scripts": {
     "publish:package": "npm publish --access=public"
   },
@@ -10,8 +10,11 @@
     "type": "git",
     "url": "git+https://github.com/Gumper-x/prettier-config.git"
   },
+  "files": [
+    "main.json"
+  ],
   "author": "Gumper-x",
-  "license": "ISC",
+  "license": "MIT",
   "keywords": [
     "prettier",
     "prettier-config"
