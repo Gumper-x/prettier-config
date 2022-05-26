@@ -13,7 +13,7 @@ Use in `package.json`
 ```
 ### OR
 Use in `.prettierrc.js`
-```json
+```js
 module.exports = {
   ...require("@gumper-x/prettier-config"),
   // Your rules https://prettier.io/docs/en/options.html
