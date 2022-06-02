@@ -5,7 +5,7 @@ That basic prettier config for all JS/TS projects
 ### <a href="https://www.npmjs.com/package/@gumper-x/prettier-config" target="_blank">NPM</a>
 
 ```bash
-npm i @gumper-x/prettier-config
+npm i @gumper-x/prettier-config -D
 ```
 Use in `package.json`
 ```json
