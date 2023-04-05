@@ -1,6 +1,6 @@
 {
   "name": "@gumper-x/prettier-config",
-  "version": "2.1.0",
+  "version": "2.2.0",
   "description": "Prettier Config",
   "main": "main.json",
   "repository": {
